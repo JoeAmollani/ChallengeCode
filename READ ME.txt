@@ -1,0 +1,2 @@
+The main script is called NinetyOne.py and uses as input the Text.txt file
+
